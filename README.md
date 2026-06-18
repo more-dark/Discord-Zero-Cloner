@@ -90,7 +90,7 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/more-dark/Discord-Zero
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-For BLADE support:
+For support:
 • Read this README fully first
 • Join [https://discord.gg/bUPqSj8VzR](https://discord.gg/bUPqSj8VzR) for any issue
 
