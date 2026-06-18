@@ -34,10 +34,24 @@
 
 ## 📦 **Installation**
 ```bash
-git clone https://github.com/yourusername/Discord-Zero-Cloner.git
+git clone https://github.com/more_dark/Discord-Zero-Cloner.git
 cd Discord-Zero-Cloner
+```
+```bash
 pip install -r requirements.txt
 python zero-cloner.py
+```
+```bash
+# Create virtual environment
+python3 -m venv venv
+
+# Activate
+source venv/bin/activate  # Linux
+# OR
+venv\Scripts\activate     # Windows
+
+# Install dependencies
+pip install -r requirements.txt
 ```
 
 ### Prerequisites
@@ -46,10 +60,10 @@ python zero-cloner.py
 ### Quick Install (One File)
 ```bash
 # Linux / macOS
-wget https://raw.githubusercontent.com/yourusername/Discord-Zero-Cloner/main/zero_cloner.py
+wget https://raw.githubusercontent.com/more_dark/Discord-Zero-Cloner/main/zero_cloner.py
 
 # Windows (PowerShell)
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/Discord-Zero-Cloner/main/zero_cloner.py" -OutFile "zero_cloner.py"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/more_dark/Discord-Zero-Cloner/main/zero_cloner.py" -OutFile "zero_cloner.py"
 
 # Or simply copy the code below into a file named zero_cloner.py
 ```
