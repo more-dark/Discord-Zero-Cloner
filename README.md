@@ -23,10 +23,9 @@
 
 | Feature | Description |
 |---------|-------------|
-| **Full Server Structure Clone** | Copies channels, categories, roles, permissions, emojis, and webhooks |
+| **Full Server Structure Clone** | Copies channels, categories, roles, permissions, and emojis, |
 | **Smart Rate-Limit Bypass** | Uses adaptive delays to avoid Discord's anti-spam |
 | **Selective Cloning** | Clone specific parts (roles, channels, emojis, webhooks) |
-| **Backup & Restore** | Save server layout as JSON and restore anytime |
 | **Token Validator** | Checks token validity before starting |
 | **Multi-Platform** | Works on Windows, Linux, and macOS |
 | **Single File** | No installation needed - just Python |
