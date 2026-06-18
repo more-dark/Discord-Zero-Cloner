@@ -15,7 +15,7 @@
 - **Fully Undetectable (FUD)** – No rate limits triggered  
 - **Bulletproof Architecture** – Handles large servers (10k+ members)  
 - **Stealth Mode** – No logs, no footprints, no alerts  
-- **Single File** – Just download and run!
+- **Single File** – Just clone and run!
 
 ---
 
