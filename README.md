@@ -35,9 +35,8 @@
 ## 📦 **Installation**
 ```bash
 git clone https://github.com/yourusername/Discord-Zero-Cloner.git
-```bash
 cd Discord-Zero-Cloner
-```bash
+pip install -r requirements.txt
 python zero-cloner.py
 ```
 
@@ -53,6 +52,7 @@ wget https://raw.githubusercontent.com/yourusername/Discord-Zero-Cloner/main/zer
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/Discord-Zero-Cloner/main/zero_cloner.py" -OutFile "zero_cloner.py"
 
 # Or simply copy the code below into a file named zero_cloner.py
+```
 
 # 🛡️ Disclaimer
 This tool is intended for educational and ethical testing purposes only.
