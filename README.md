@@ -1,3 +1,20 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                            ║
+║     ███████╗███████╗██████╗  ██████╗      ██████╗██╗      ██████╗ ███╗   ██╗ ███████╗██████╗ 
+║     ╚══███╔╝██╔════╝██╔══██╗██╔═══██╗    ██╔════╝██║     ██╔═══██╗████╗  ██║ ██╔════╝██╔══██╗
+║       ███╔╝ █████╗  ██████╔╝██║   ██║    ██║     ██║     ██║   ██║██╔██╗ ██║ █████╗  ██████╔╝
+║      ███╔╝  ██╔══╝  ██╔══██╗██║   ██║    ██║     ██║     ██║   ██║██║╚██╗██║ ██╔══╝  ██╔══██╗
+║     ███████╗███████╗██║  ██║╚██████╔╝    ╚██████╗███████╗╚██████╔╝██║ ╚████║ ███████╗██║  ██║
+║     ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝      ╚═════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚══════╝╚═╝  ╚═╝
+║                                                                                            ║
+║                          ╔════════════════════════════════════════╗                        ║
+║                          ║     ZERO CLONER - DISCORD SERVER TOOL  ║                        ║
+║                          ╚════════════════════════════════════════╝                        ║
+║                                                                                            ║
+║                        🚀 Zero-Cloner by T-D Organisation | v1.0 🚀                       ║
+║                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════╝
+
 # ⚡ Discord-Zero-Cloner ⚡
 ### *The Ultimate Stealth Cloning Suite for Discord Servers*
 
@@ -7,7 +24,7 @@
 ![Discord](https://img.shields.io/discord/zTYmXxkSmy?label=Support&logo=discord&color=5865F2)
 
 ---
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🔥 **Overview**
 
 **Discord-Zero-Cloner** is a professional-grade, command-line tool designed for **rapid server cloning** on Discord. Single-file deployment, cross-platform compatibility, and zero dependencies beyond Python standard library.
@@ -18,7 +35,7 @@
 - **Single File** – Just clone and run!
 
 ---
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🧠 **Features**
 
 | Feature | Description |
@@ -31,7 +48,7 @@
 | **Single File** | No installation needed - just Python |
 
 ---
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 📦 **Installation**
 ```bash
 git clone https://github.com/more_dark/Discord-Zero-Cloner.git
@@ -50,10 +67,10 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 python zero-cloner.py
 ```
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Prerequisites
 - Python 3.8+ (Download from [python.org](https://python.org))
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Quick Install (One File)
 ```bash
 # Linux / macOS
@@ -64,10 +81,15 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/more_dark/Discord-Zero
 
 # Or simply copy the code below into a file named zero_cloner.py
 ```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+For BLADE support:
+• Read this README fully first
+• Join [https://discord.gg/bUPqSj8VzR](https://discord.gg/bUPqSj8VzR) for any issue
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛡️ Disclaimer
 This tool is intended for educational and ethical testing purposes only.
 You are solely responsible for how you use it.
 Cloning servers without explicit permission violates Discord's Terms of Service and may result in account termination.
 The developer assumes zero liability for any misuse.
-
