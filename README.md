@@ -22,7 +22,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-red)
-![Discord](https://img.shields.io/discord/zTYmXxkSmy?label=Support&logo=discord&color=5865F2)
+![Discord](https://img.shields.io/discord/1234567890?label=Support&logo=discord&color=5865F2)
 
 ---
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -68,7 +68,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 python zero-cloner.py
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ### Prerequisites
 - Python 3.8+ (Download from [python.org](https://python.org))
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
