@@ -81,10 +81,10 @@ python zero-cloner.py
 ### Quick Install (One File)
 ```bash
 # Linux / macOS
-wget https://raw.githubusercontent.com/more-dark/Discord-Zero-Cloner/main/zero_cloner.py
+wget https://raw.githubusercontent.com/more-dark/Discord-Zero-Cloner/main/zero-cloner.py
 
 # Windows (PowerShell)
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/more-dark/Discord-Zero-Cloner/main/zero_cloner.py" -OutFile "zero_cloner.py"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/more-dark/Discord-Zero-Cloner/main/zero-cloner.py" -OutFile "zero_cloner.py"
 
 # Or simply copy the code below into a file named zero_cloner.py
 ```
